@@ -5,13 +5,13 @@ Verifai is a browser-based face verification tool. Upload a reference photo of a
 ## Screenshots
 
 **Home page**
-![Verifai home page](./screenshots/home.png)
+![Verifai home page](./home.png)
 
 **Uploading a reference photo**
-![Uploading a reference photo](./screenshots/reference-upload.png)
+![Uploading a reference photo](./reference-upload.png)
 
 **Live camera verification**
-![Live camera verification](./screenshots/live-verification.png)
+![Live camera verification](./live-verification.png)
 
 ## How it works
 
